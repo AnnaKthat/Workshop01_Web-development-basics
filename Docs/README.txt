@@ -1,1 +1,0 @@
-This is the completed task 5.
